@@ -5,7 +5,6 @@
 
 
 ## 1. Propósito
-
 Projeto desenvolvido como parte da disciplina de **Algoritmos e Estrutura de Dados I**, com foco na gestão de estoque para lojas de e-commerce. O sistema utiliza um arquivo CSV para armazenar os dados do estoque e a biblioteca **Graphics** para a interface.
 
 ## 2. Funcionalidades

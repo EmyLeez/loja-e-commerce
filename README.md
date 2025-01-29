@@ -3,29 +3,6 @@
   <h1>  Sistema de Gestão para  E-commerce </h1>
 </div>
 
-<div align="center">
-  <p>Desenvolvedoras</p>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/emylly-guimaraes/">
-          <img src="https://avatars.githubusercontent.com/u/107193565?v=4" width="100px;" alt="Foto da Emylly Guimarães"/><br>
-          <sub><b>Emylly Guimarães</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/camila-tabordac/">
-          <img src="https://avatars.githubusercontent.com/u/107329291?v=4" width="100px;" alt="Foto da Camila Taborda"/><br>
-          <sub><b>Camila Taborda</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ## 1. Propósito
 

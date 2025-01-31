@@ -14,3 +14,7 @@ Projeto desenvolvido como parte da disciplina de **Algoritmos e Estrutura de Dad
 - Gerar uma lista de estoque ao usuário.
 - Verificar quantos itens de determinado produto tem no estoque.
 - Reduzir item do estoque quando lançada compra.
+<<<<<<< HEAD
+=======
+
+>>>>>>> ec5a2cf904028fd3b82135fdf37a109fd3d86e56
